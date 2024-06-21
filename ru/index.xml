@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/</link>
+      <atom:link href="http://localhost:1313/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Academic CV Theme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Hugo Academic CV Theme</title>
+      <link>http://localhost:1313/ru/</link>
+    </image>
+    
+    <item>
+      <title>Accomplishments</title>
+      <link>http://localhost:1313/ru/accomplishments/</link>
+      <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/accomplishments/</guid>
+      <description>&lt;h2 id=&#34;my-accomplishments&#34;&gt;My Accomplishments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1st place in Dota 2 Esports Girl&amp;rsquo;s Tournament (2024)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/ru/experience/</link>
+      <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/experience/</guid>
+      <description>&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating telegram bots in Python&lt;/li&gt;
+&lt;li&gt;Making my own website&lt;/li&gt;
+&lt;li&gt;Dota 2 Team Manager&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/ru/skills/</link>
+      <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/skills/</guid>
+      <description>&lt;h2 id=&#34;my-skills&#34;&gt;My Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Languages: Python, С++, C&lt;/li&gt;
+&lt;li&gt;Kneeting&lt;/li&gt;
+&lt;li&gt;Dancing&lt;/li&gt;
+&lt;li&gt;Languages: Spanish, English, Russian&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/ru/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My own Telegram Bot</title>
+      <link>http://localhost:1313/ru/project/tgbot/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/tgbot/</guid>
+      <description>&lt;p&gt;Making Telegram Bot in Python&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
